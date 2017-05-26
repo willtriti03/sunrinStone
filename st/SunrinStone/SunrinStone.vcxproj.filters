@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Form">
+      <UniqueIdentifier>{d5304164-e347-4600-b93f-32d55bb1494b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Form\SpriteManager">
+      <UniqueIdentifier>{0155ef07-d77a-43b8-a34a-95dd1ec92901}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Form\TextureManager">
+      <UniqueIdentifier>{384eb9ed-d259-40c7-8f56-78f87ba99ca2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Form\Sprite">
+      <UniqueIdentifier>{06ef303d-b389-4a00-adec-6f6546acf647}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Form\SceneManager">
+      <UniqueIdentifier>{15928d7d-f8d0-468f-9669-306e74602f6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Form\ISceneNode">
+      <UniqueIdentifier>{694c1b87-3b02-4dec-a1fe-8008c1d5b29a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Form\InputManager">
+      <UniqueIdentifier>{ab5b7984-d9ff-4618-9e00-0c082983a6c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Form\Function">
+      <UniqueIdentifier>{e0d42f1b-3ea0-4ffd-9078-6b099b7bb284}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Form\Main">
+      <UniqueIdentifier>{56d886ad-fb9f-46b0-b3c0-bc36348b5584}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Form\Application">
+      <UniqueIdentifier>{2f8b50be-620a-4dd9-b908-b4651e12f0fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Form\Animation">
+      <UniqueIdentifier>{beef9496-eb4e-4df2-8f27-6ea2a5ada2c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\InGame">
+      <UniqueIdentifier>{fc62fef7-8298-4313-a11f-7444af50bc8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\InGame\GUIButton">
+      <UniqueIdentifier>{22d016cb-1425-485e-99c4-542f0484b042}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\InGame\BackGround">
+      <UniqueIdentifier>{6d2ba9d1-9073-4f94-b5e1-1c1811632a66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\InGame\LoadScene">
+      <UniqueIdentifier>{a51098e1-121d-45ea-958b-eec59f8e3e1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Scene">
+      <UniqueIdentifier>{f6156928-2abd-4128-967c-cafe43f9cf04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Scene\MainScene">
+      <UniqueIdentifier>{af25540a-9e35-4bf5-92b1-eb191ad52c6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Scene\ShopScene">
+      <UniqueIdentifier>{88651645-4213-41dd-b79d-7d92ffc0ae10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Scene\DeckScene">
+      <UniqueIdentifier>{bd78129a-0425-413e-8c11-afb9b6460b56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Scene\MultiScene">
+      <UniqueIdentifier>{89521388-8465-402e-9c1e-b313d09491ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Scene\SoloScene">
+      <UniqueIdentifier>{75d6da2e-ca1b-4b36-8b71-86855909ad73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\stdafx">
+      <UniqueIdentifier>{328b505e-70b4-444a-804a-b3d1c7a8e595}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\InGame\Font">
+      <UniqueIdentifier>{7b443ee2-d332-4a9e-84a6-4812772e378a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\InGame\Computer">
+      <UniqueIdentifier>{a89f5677-ef1a-4816-b2bc-b44d1fd5d696}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\InGame\ResourceFinder">
+      <UniqueIdentifier>{486e4e06-578b-43c7-93fe-bb99f0b8bcd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\InGame\MouseCusor">
+      <UniqueIdentifier>{77a3d505-4742-4e2f-be2c-9c708fc3a73c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\InGame\Deck">
+      <UniqueIdentifier>{4dffc756-862e-40c7-99eb-4afc60f7ce37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\InGame\Soting">
+      <UniqueIdentifier>{96b1d158-8178-4c74-aed7-348324c7042a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Scene\LoseScene">
+      <UniqueIdentifier>{26bb1556-5e4e-4549-a019-899e9798b7fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Scene\WinScene">
+      <UniqueIdentifier>{a23fbb52-7558-4423-8b90-33f35493f24e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Scene\SoloStopScene">
+      <UniqueIdentifier>{5965616f-7a2a-4246-983e-256292a50f01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Scene\MultiStopScene">
+      <UniqueIdentifier>{2325c74e-536c-4d06-a377-710ce417bde2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Animation.cpp">
+      <Filter>소스 파일\Form\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Application.cpp">
+      <Filter>소스 파일\Form\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일\Form\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Function.cpp">
+      <Filter>소스 파일\Form\Function</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScene.cpp">
+      <Filter>소스 파일\Scene\MainScene</Filter>
+    </ClCompile>
+    <ClCompile Include="InputManager.cpp">
+      <Filter>소스 파일\Form\InputManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ISceneNode.cpp">
+      <Filter>소스 파일\Form\ISceneNode</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>소스 파일\Form\SceneManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>소스 파일\Form\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteManager.cpp">
+      <Filter>소스 파일\Form\SpriteManager</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>소스 파일\Form\TextureManager</Filter>
+    </ClCompile>
+    <ClCompile Include="GUIButton.cpp">
+      <Filter>소스 파일\InGame\GUIButton</Filter>
+    </ClCompile>
+    <ClCompile Include="BackGround.cpp">
+      <Filter>소스 파일\InGame\BackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadScene.cpp">
+      <Filter>소스 파일\InGame\LoadScene</Filter>
+    </ClCompile>
+    <ClCompile Include="ShopScene.cpp">
+      <Filter>소스 파일\Scene\ShopScene</Filter>
+    </ClCompile>
+    <ClCompile Include="DeckScene.cpp">
+      <Filter>소스 파일\Scene\DeckScene</Filter>
+    </ClCompile>
+    <ClCompile Include="SoloScene.cpp">
+      <Filter>소스 파일\Scene\SoloScene</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일\stdafx</Filter>
+    </ClCompile>
+    <ClCompile Include="Font.cpp">
+      <Filter>소스 파일\InGame\Font</Filter>
+    </ClCompile>
+    <ClCompile Include="Computer.cpp">
+      <Filter>소스 파일\InGame\Computer</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceFinder.cpp">
+      <Filter>소스 파일\InGame\ResourceFinder</Filter>
+    </ClCompile>
+    <ClCompile Include="MouseCusor.cpp">
+      <Filter>소스 파일\InGame\MouseCusor</Filter>
+    </ClCompile>
+    <ClCompile Include="Deck.cpp">
+      <Filter>소스 파일\InGame\Deck</Filter>
+    </ClCompile>
+    <ClCompile Include="Soting.cpp">
+      <Filter>소스 파일\InGame\Soting</Filter>
+    </ClCompile>
+    <ClCompile Include="WinScene.cpp">
+      <Filter>소스 파일\Scene\WinScene</Filter>
+    </ClCompile>
+    <ClCompile Include="LoseScene.cpp">
+      <Filter>소스 파일\Scene\LoseScene</Filter>
+    </ClCompile>
+    <ClCompile Include="SoloStopScene.cpp">
+      <Filter>소스 파일\Scene\SoloStopScene</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiStopScene.cpp">
+      <Filter>소스 파일\Scene\MultiStopScene</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animation.h">
+      <Filter>소스 파일\Form\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Application.h">
+      <Filter>소스 파일\Form\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="Console.h">
+      <Filter>소스 파일\Form\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Function.h">
+      <Filter>소스 파일\Form\Function</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScene.h">
+      <Filter>소스 파일\Scene\MainScene</Filter>
+    </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>소스 파일\Form\InputManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ISceneNode.h">
+      <Filter>소스 파일\Form\ISceneNode</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>소스 파일\Form\SceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>소스 파일\Form\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteManager.h">
+      <Filter>소스 파일\Form\SpriteManager</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>소스 파일\Form\TextureManager</Filter>
+    </ClInclude>
+    <ClInclude Include="GUIButton.h">
+      <Filter>소스 파일\InGame\GUIButton</Filter>
+    </ClInclude>
+    <ClInclude Include="BackGround.h">
+      <Filter>소스 파일\InGame\BackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadScene.h">
+      <Filter>소스 파일\InGame\LoadScene</Filter>
+    </ClInclude>
+    <ClInclude Include="ShopScene.h">
+      <Filter>소스 파일\Scene\ShopScene</Filter>
+    </ClInclude>
+    <ClInclude Include="DeckScene.h">
+      <Filter>소스 파일\Scene\DeckScene</Filter>
+    </ClInclude>
+    <ClInclude Include="SoloScene.h">
+      <Filter>소스 파일\Scene\SoloScene</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Font.h">
+      <Filter>소스 파일\InGame\Font</Filter>
+    </ClInclude>
+    <ClInclude Include="Computer.h">
+      <Filter>소스 파일\InGame\Computer</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceFinder.h">
+      <Filter>소스 파일\InGame\ResourceFinder</Filter>
+    </ClInclude>
+    <ClInclude Include="MouseCusor.h">
+      <Filter>소스 파일\InGame\MouseCusor</Filter>
+    </ClInclude>
+    <ClInclude Include="Deck.h">
+      <Filter>소스 파일\InGame\Deck</Filter>
+    </ClInclude>
+    <ClInclude Include="Soting.h">
+      <Filter>소스 파일\InGame\Soting</Filter>
+    </ClInclude>
+    <ClInclude Include="WinScene.h">
+      <Filter>소스 파일\Scene\WinScene</Filter>
+    </ClInclude>
+    <ClInclude Include="LoseScene.h">
+      <Filter>소스 파일\Scene\LoseScene</Filter>
+    </ClInclude>
+    <ClInclude Include="SoloStopScene.h">
+      <Filter>소스 파일\Scene\SoloStopScene</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiStopScene.h">
+      <Filter>소스 파일\Scene\MultiStopScene</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
